@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/dianapnle.github.io/static/css/main.23fe6097.css",
-    "main.js": "/dianapnle.github.io/static/js/main.aea41d5b.js",
+    "main.js": "/dianapnle.github.io/static/js/main.00112479.js",
     "static/media/kickstart.png": "/dianapnle.github.io/static/media/kickstart.e27936ec3fc35c1b6808.png",
     "static/media/krypto.png": "/dianapnle.github.io/static/media/krypto.ca0e8bf963cc76cfe26c.png",
     "static/media/project.jpeg": "/dianapnle.github.io/static/media/project.7063238598429f9a1f79.jpeg",
@@ -15,10 +15,10 @@
     "static/media/pre.svg": "/dianapnle.github.io/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/dianapnle.github.io/index.html",
     "main.23fe6097.css.map": "/dianapnle.github.io/static/css/main.23fe6097.css.map",
-    "main.aea41d5b.js.map": "/dianapnle.github.io/static/js/main.aea41d5b.js.map"
+    "main.00112479.js.map": "/dianapnle.github.io/static/js/main.00112479.js.map"
   },
   "entrypoints": [
     "static/css/main.23fe6097.css",
-    "static/js/main.aea41d5b.js"
+    "static/js/main.00112479.js"
   ]
 }
