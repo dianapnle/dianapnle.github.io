@@ -2,10 +2,10 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import {
   AiFillGithub,
-  AiOutlineTwitter
+  // AiOutlineTwitter
 } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
-import { SiLeetcode } from "react-icons/si";
+// import { SiLeetcode } from "react-icons/si";
 import logo from "../../assets/sLogo.png";
 
 const Footer = () => {
@@ -25,53 +25,53 @@ const Footer = () => {
             <ul className="footer-icons">
               <li className="social-icons">
                 <a
-                  href="https://github.com/19sajib"
+                  href="https://github.com/dianapnle"
                   style={{ color: "white" }}
-                  target="_blank" 
+                  target="_blank"
                   rel="noopener noreferrer"
                   aria-label="github"
                 >
                   <AiFillGithub />
                 </a>
               </li>
-              <li className="social-icons">
+              {/* <li className="social-icons">
                 <a
                   href="https://twitter.com/19sajib"
                   style={{ color: "white" }}
-                  target="_blank" 
+                  target="_blank"
                   rel="noopener noreferrer"
                   aria-label="twitter"
                 >
                   <AiOutlineTwitter />
                 </a>
-              </li>
+              </li> */}
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/19sajib/"
+                  href="https://www.linkedin.com/in/diana-le-b88a11209/"
                   style={{ color: "white" }}
-                  target="_blank" 
+                  target="_blank"
                   rel="noopener noreferrer"
                   aria-label="linkedin"
                 >
                   <FaLinkedinIn />
                 </a>
               </li>
-              <li className="social-icons">
+              {/* <li className="social-icons">
                 <a
                   href="https://leetcode.com/19sajib/"
                   style={{ color: "white" }}
-                  target="_blank" 
+                  target="_blank"
                   rel="noopener noreferrer"
                   aria-label="leetcode"
                 >
                   <SiLeetcode />
                 </a>
-              </li>
+              </li> */}
             </ul>
           </Col>
         </Row>
       </Container>
-    );  
+    );
 }
 
 export default Footer
