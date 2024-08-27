@@ -1,17 +1,11 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import LaptopImg from "../../assets/home-main.svg";
+import graphlaptop from "../../assets/graphlaptop.png";
 import Tilt from "react-parallax-tilt";
-import {
-  AiFillGithub,
-  // AiOutlineTwitter
-} from "react-icons/ai";
-import { FaLinkedinIn } from "react-icons/fa";
-// import { SiLeetcode } from "react-icons/si";
 
 
 
-const About = () => {
+const VolunteerLeadership = () => {
     return (
         <Container fluid className="home-about-section" id="about">
           <Container>
@@ -25,101 +19,34 @@ const About = () => {
                  and I'm from <span className="yellow"> San Diego, California.</span>
                 <br />
                 <br />
-                I graduated with a Bachelor's degree in General Biology 2018.
+                I graduated in 2018 with a Bachelor's degree in <span className="yellow">General Biology </span>. Previously, I was interested in medicine and worked in the ER. I was fortunate to have worked closely with physicians and staff for 2.5 years before becoming fascinated with code!
+                During my time there, the ER staff and I experienced many frustrations with the software we were using at the hospital. What started as <span className="yellow">curiousity</span> became <span className="yellow">passion</span>, as I realized that the programs and applications we currently use can be <span className="yellow">improved </span>. I made the transition into software development, a career that allowed me to combine both my passion for health care and developing tools.
+                I am excited to <span className="yellow">leverage my skills and experiences</span> to create useful tools that will improve quality of life for others!
                 <br />
                 <br />
-                  I recently completed a year at App Academy to be a
-                  <b className="yellow"> Full-Stack </b>developer,
-                  I enjoy tackling new challenges and continuously expanding my skillset.
+                  I recently completed a year at App Academy as a
+                  <b className="yellow"> Full-Stack Developer</b>.
+                  I enjoy tackling new challenges and am eager to continuously expand my skillset in order to create tools that make life easier.
                   <br />
                   <br />I am proficient in
                     <b className="yellow"> Javascript, </b>
-                    as well as have knowledge in programming languages such as Python,
-                  <b className="yellow"> SQL, and Solidity.</b>
+                    as well as have knowledge in programming languages such as
+                  <b className="yellow"> Python, SQL, and React</b> to name a few.
                   <br />
                   <br />
-                  I have a passion for working
-                  with <b className="yellow">Node.js, PostgreSql,</b> and
+                  I am interested in learning new skills to be able to build
                   <i>
-                    <b className="yellow">
-                      {" "}
-                      modern Javascript libraries and frameworks
-                    </b>
-                  </i>
-                  &nbsp; like
-                  <i>
-                    <b className="yellow"> React.js</b>
-                  </i>
-                  <br />
-                  <br />
-                  {/* I am also interested in building new
-                  <i>
-                    <b className="yellow"> Web Technologies and Products, </b>
+                    <b className="yellow"> full-stack applications and products, </b>
                     as well as exploring areas related to
-                    <b className="yellow"> Artificial Intelligence.</b>
+                    <b className="yellow"> artificial intelligence and machine learning.</b>
                   </i>
-                  <br /> */}
-
+                  <br />
                 </p>
               </Col>
               <Col md={4} className="myAvtar">
                 <Tilt>
-                  <img src={LaptopImg} className="img-fluid" alt="avatar" />
+                  <img src={graphlaptop} className="img-fluid" alt="avatar" />
                 </Tilt>
-              </Col>
-            </Row>
-            <Row>
-              <Col md={12} className="home-about-social">
-                <h1>FIND ME ON</h1>
-                <p>
-                Please don't hesitate to reach out to me and <span className="yellow">connect.</span>
-                </p>
-                <ul className="home-about-social-links">
-                  <li className="social-icons">
-                    <a
-                      href="https://github.com/dianapnle"
-                      target="_blank"
-                      rel="noreferrer"
-                      className="icon-colour  home-social-icons"
-                      aria-label="github"
-                    >
-                      <AiFillGithub />
-                    </a>
-                  </li>
-                  {/* <li className="social-icons">
-                    <a
-                      href="https://twitter.com/19sajib"
-                      target="_blank"
-                      rel="noreferrer"
-                      className="icon-colour  home-social-icons"
-                      aria-label="twitter"
-                    >
-                      <AiOutlineTwitter />
-                    </a>
-                  </li> */}
-                  <li className="social-icons">
-                    <a
-                      href="https://www.linkedin.com/in/diana-le-b88a11209/"
-                      target="_blank"
-                      rel="noreferrer"
-                      className="icon-colour  home-social-icons"
-                      aria-label="linkedin"
-                    >
-                      <FaLinkedinIn />
-                    </a>
-                  </li>
-                  {/* <li className="social-icons">
-                    <a
-                      href="https://leetcode.com/19sajib/"
-                      target="_blank"
-                      rel="noreferrer"
-                      className="icon-colour home-social-icons"
-                      aria-label="instagram"
-                    >
-                      <SiLeetcode />
-                    </a>
-                  </li> */}
-                </ul>
               </Col>
             </Row>
           </Container>
@@ -128,4 +55,4 @@ const About = () => {
 
 }
 
-export default About
+export default VolunteerLeadership

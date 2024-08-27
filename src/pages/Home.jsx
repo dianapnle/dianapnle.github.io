@@ -1,9 +1,10 @@
 import React from 'react'
 import { Container, Row, Col } from "react-bootstrap";
-import homeLogo from '../assets/about.png'
+import close from '../assets/close.png'
 import Particle from '../components/Particle';
 import About from '../components/Home/About';
 import Type from '../components/Home/Type';
+import VolunteerLeadership from '../components/Home/VolunteerLeadership';
 
 const Home = () => {
   return (
@@ -32,7 +33,7 @@ const Home = () => {
 
             <Col md={5} style={{ paddingBottom: 20 }}>
               <img
-                src={homeLogo}
+                src={close}
                 alt="home pic"
                 className="img-fluid"
                 style={{ maxHeight: "450px" }}
@@ -42,6 +43,7 @@ const Home = () => {
         </Container>
       </Container>
       <About />
+      <VolunteerLeadership />
     </section>
   );
 }
