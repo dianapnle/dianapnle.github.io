@@ -16,7 +16,8 @@ import {
   SiExpress,
   SiHtml5,
   SiSqlite,
-  SiSocketdotio
+  SiSocketdotio,
+  SiSequelize
 } from "react-icons/si";
 
 import { FaAws } from "react-icons/fa";
@@ -142,6 +143,14 @@ const Techstack = () => {
       </div>
       <div className="tech-description">
             CSS3
+        </div>
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+      <div>
+        <SiSequelize />
+      </div>
+      <div className="tech-description">
+            Sequelize
         </div>
       </Col>
     </Row>

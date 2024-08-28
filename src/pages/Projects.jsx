@@ -42,7 +42,7 @@ const Projects = () => {
               imgPath={xtalk}
               isBlog={false}
               title="X-Talk"
-              description="Cross-Talk is a clone of the website Discord, a free app that allows users to communicate in real time using text. Similarly, Cross-Talk allows for users to organize servers and smaller communities, rather than having a single central community. Users can join any public server and also create a smaller server for a group of friends. The backend of Cross-Talk is built on SQLAlchemy, Flask, and python with a PostgreSQL database. Frontend rendering is handled with React and Redux."
+              description="Cross-Talk is a clone of the website Discord, a free app that allows users to communicate in real time using text. Similarly, Cross-Talk allows for users to organize servers and smaller communities, rather than having a single central community. Users can join any public server and also create a smaller server for a group of friends.The backend of Cross-Talk is built on SQLAlchemy, Flask, python with a PostgreSQL database, AWS to handle media, and SocketIO for real-time messaging.  Frontend rendering is handled with React and Redux."
               ghLink="https://github.com/apatel978/Discord-Clone-XTalk"
             />
           </Col>
