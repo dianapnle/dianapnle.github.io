@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.01f590ae.css",
-    "main.js": "/static/js/main.971167b9.js",
+    "main.css": "/static/css/main.868ae08d.css",
+    "main.js": "/static/js/main.e3e15aab.js",
     "static/media/graphlaptop.png": "/static/media/graphlaptop.4143d0cbca81a2f183a9.png",
     "static/media/close.png": "/static/media/close.8fe56ed6c441ddfd6c75.png",
     "static/media/laptop.jpg": "/static/media/laptop.7e0a5f4bd861898f2e28.jpg",
     "static/media/xtalk.png": "/static/media/xtalk.8970a3cd6e28ad683f56.png",
     "static/media/spiritedaway.png": "/static/media/spiritedaway.d01c63eda5faab26b64b.png",
     "static/media/urbansteps.png": "/static/media/urbansteps.3ccce8803e54ead7255b.png",
-    "static/media/dianale.pdf": "/static/media/dianale.1609eeb345e250ec8cbc.pdf",
+    "static/media/dianale.pdf": "/static/media/dianale.97409487ed2eb2ffa412.pdf",
     "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
     "static/media/sLogo.png": "/static/media/sLogo.fbf5685094ecde30a712.png",
     "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/index.html",
-    "main.01f590ae.css.map": "/static/css/main.01f590ae.css.map",
-    "main.971167b9.js.map": "/static/js/main.971167b9.js.map"
+    "main.868ae08d.css.map": "/static/css/main.868ae08d.css.map",
+    "main.e3e15aab.js.map": "/static/js/main.e3e15aab.js.map"
   },
   "entrypoints": [
-    "static/css/main.01f590ae.css",
-    "static/js/main.971167b9.js"
+    "static/css/main.868ae08d.css",
+    "static/js/main.e3e15aab.js"
   ]
 }
