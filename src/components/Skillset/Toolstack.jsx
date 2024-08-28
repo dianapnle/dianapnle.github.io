@@ -3,28 +3,44 @@ import { Col, Row } from "react-bootstrap";
 import {
   SiVisualstudiocode,
   SiPostman,
-  SiHeroku,
-  SiVercel,
-  SiNetlify
+  SiFigma,
+  SiRender
 } from "react-icons/si";
 
 const Toolstack = () => {
   return (
     <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
       <Col xs={4} md={2} className="tech-icons">
-        <SiVisualstudiocode />
+      <div>
+          <SiVisualstudiocode />
+        </div>
+        <div className="tech-description">
+            Visual Studio Code
+        </div>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiPostman />
+      <div>
+          <SiFigma />
+        </div>
+        <div className="tech-description">
+            Figma
+        </div>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiVercel />
+      <div>
+          <SiPostman />
+        </div>
+        <div className="tech-description">
+            Postman
+        </div>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiNetlify />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <SiHeroku />
+      <div>
+          <SiRender />
+        </div>
+        <div className="tech-description">
+            Render
+        </div>
       </Col>
     </Row>
   );
