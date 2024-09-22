@@ -23,7 +23,7 @@ const Projects = () => {
               imgPath={urbansteps}
               isBlog={false}
               title="UrbanSteps"
-              description="Urban Steps is a website and online directory that helps people discover and get involved in local dance studios in their area. I have always been interested in combining my passion for dance and technical skills so I built this project to combine the two! The purpose was to resolve basic interactions a dance studio and student would want, since a lot of the dance studios near me don't have their own website."
+              description="Urban Steps is a website and online directory that helps people discover and get involved in local dance studios in their area. I have always been interested in combining my passion for dance and technical skills so I built this project to combine the two! The purpose was to resolve basic interactions a dance studio and student would want."
               ghLink="https://github.com/dianapnle/UrbanSteps"
               demoLink="https://urbansteps.onrender.com/"
             />
