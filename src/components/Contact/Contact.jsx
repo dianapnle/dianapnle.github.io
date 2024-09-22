@@ -14,7 +14,7 @@ const Contact = () => {
         <Container style={{paddingTop: '50px'}} >
             <Row >
             <Col md={6} className="c-left" >
-            <h1 >Get in Touch</h1>
+            <h1 >Let's Connect!</h1>
             <h2 className="yellow">Send me an email!</h2>
             </Col>
             <Col md={6} className="c-right">
