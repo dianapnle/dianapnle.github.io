@@ -9,8 +9,8 @@ html {
       rgba(5, 8, 40, 0.87), rgba(1, 4, 39, 0.925)
     );
 
-    --imp-text-color: #7500fa;
-    --imp-bold-text-color: #7500fa;
+    --imp-text-color: #ba87f6;
+    --imp-bold-text-color: #ba87f6;
   }
 
   .yellow {
@@ -100,7 +100,7 @@ html {
 
   .navbar-toggler span {
     display: block !important;
-    background-color: #7500fa !important;
+    background-color: #871eff !important;
     height: 4px !important;
     width: 27px !important;
     margin-top: 5px !important;
@@ -284,18 +284,18 @@ html {
   }
 
   .main-name {
-    color: #7500fa;
+    color: #ba87f6;
   }
 
   .Typewriter__wrapper {
     font-size: 2.2em !important;
-    color: #7500fa!important;
+    color: #ba87f6!important;
     /* color: #be6adf !important; */
     font-weight: 600 !important;
   }
   .Typewriter__cursor {
     font-size: 2.4em !important;
-    color: #7500fa !important;
+    color: #ba87f6 !important;
   }
 
   @media (max-width: 767px) {
@@ -596,16 +596,16 @@ html {
 .btn-primary {
   /* color: #fff !important; */
   color: rgb(24, 2, 44) !important;
-  background-color: #7500fa !important;
-  border-color: #7500fa !important;
+  background-color: #841df9 !important;
+  border-color: #ba87f6 !important;
   /* background-color: #623686 !important;
   border-color: #623686 !important; */
 }
 
 .btn-primary:hover {
   color: #fff !important;
-  background-color: #7500fa !important;
-  border-color: #7500fa !important;
+  background-color: #ba87f6 !important;
+  border-color: #ba87f6 !important;
   /* background-color: #6d20c5d7 !important;
   border-color: #6d20c5d7 !important; */
 }
