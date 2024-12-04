@@ -31,7 +31,7 @@ const VolunteerLeadership = () => {
                   <br />I am proficient in
                     <b className="yellow"> Javascript, </b>
                     as well as have knowledge in programming languages such as
-                  <b className="yellow"> Python, SQL, and React</b> to name a few.
+                  <b className="yellow"> Java, Python, SQL, and React</b> to name a few.
                   <br />
                   <br />
                   I am interested in learning new skills to be able to build
