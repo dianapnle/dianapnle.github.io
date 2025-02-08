@@ -31,7 +31,7 @@ const VolunteerLeadership = () => {
                   <br />I am proficient in
                     <b className="yellow"> Javascript, </b>
                     as well as have knowledge in programming languages such as
-                  <b className="yellow"> Java, Python, SQL, and React</b> to name a few. I also have been working with Google App Scripts to automate processes.
+                  <b className="yellow"> Java, Python, SQL, and React</b> to name a few. I also have been working with Google App Scripts to automate processes. I also have some experience working with different Zoho tools.
                   <br />
                   <br />
                   I am interested in learning new skills to be able to build
