@@ -19,7 +19,7 @@ const VolunteerLeadership = () => {
                  and I'm from <span className="yellow"> San Diego, California.</span>
                 <br />
                 <br />
-                I graduated in 2018 with a Bachelor's degree in <span className="yellow">General Biology </span>. Previously, I was interested in medicine and worked in the ER. I was fortunate to have worked closely with physicians and staff for 2.5 years before becoming fascinated with code!
+                I graduated in 2018 with a Bachelor's of Science degree in <span className="yellow">General Biology </span>. Previously, I was interested in medicine and worked in the ER. I was fortunate to have worked closely with physicians and staff for 2.5 years before becoming fascinated with code!
                 During my time there, the ER staff and I experienced many frustrations with the software we were using at the hospital. What started as <span className="yellow">curiousity</span> became <span className="yellow">passion</span>, as I realized that the programs and applications we currently use can be <span className="yellow">improved </span>. I made the transition into software development, a career that allowed me to combine both my passion for health care and developing tools.
                 I am excited to <span className="yellow">leverage my skills and experiences</span> to create useful tools that will improve quality of life for others!
                 <br />
