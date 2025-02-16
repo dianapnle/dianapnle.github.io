@@ -15,7 +15,7 @@ const VolunteerLeadership = () => {
                   LET ME <span className="yellow"> INTRODUCE </span> MYSELF
                 </h1>
                 <p className="home-about-body">
-                 Hi, my name is <span className="yellow">Diana L</span>
+                 Hi, my name is <span className="yellow">Diana Le</span>
                  and I'm from <span className="yellow"> San Diego, California.</span>
                 <br />
                 <br />
