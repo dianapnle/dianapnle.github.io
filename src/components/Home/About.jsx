@@ -36,7 +36,7 @@ const VolunteerLeadership = () => {
                   <br />
                   I am interested in learning new skills to be able to build
                   <i>
-                    <b className="yellow"> full-stack applications and products, </b>
+                    <b className="yellow"> full-stack applications, </b>
                     as well as exploring areas related to
                     <b className="yellow"> artificial intelligence and machine learning.</b>
                   </i>
