@@ -26,7 +26,7 @@ const VolunteerLeadership = () => {
                 <br />
                   I recently completed a year at App Academy as a
                   <b className="yellow"> Full-Stack Developer</b>.
-                  I enjoy tackling new challenges and am eager to continuously expand my skillset in order to create tools that make life easier.
+                  I enjoy tackling new challenges and am eager to continuously expand my skillset in order to create tools that make life easie.
                   <br />
                   <br />I am proficient in
                     <b className="yellow"> Javascript, </b>
