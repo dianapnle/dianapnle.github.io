@@ -34,7 +34,7 @@ const VolunteerLeadership = () => {
                   <b className="yellow"> Java, Python, SQL, and React</b> to name a few. I also have been working with Google App Scripts to automate processes. I also have some experience working with different Zoho tools.
                   <br />
                   <br />
-                  I am interested in learning new skills to be able to buil
+                  I am interested in learning new skills to be able to build
                   <i>
                     <b className="yellow"> full-stack applications, </b>
                     as well as exploring areas related to
